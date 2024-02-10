@@ -1,4 +1,4 @@
-# simple calculator
+# simple calculator stage 2 
 #include <iostream>
 #include <cmath>
 #include <string>
